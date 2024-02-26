@@ -1,14 +1,11 @@
 <template>
-  <register />
+  Hello
 </template>
 
 <script>
-import register from './components/register.vue';
+
 export default {
   name: 'App',
-  components: {
-    register
-  }
 }
 </script>
 
