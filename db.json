@@ -1,0 +1,64 @@
+{
+  "user": [
+    {
+      "id": "0a7e",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123"
+    },
+    {
+      "id": "d7ec",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "name": "admin"
+    },
+    {
+      "id": "23a4",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "name": "admin"
+    },
+    {
+      "id": "d67b",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "name": "admin"
+    },
+    {
+      "id": "61d7",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "name": "admin"
+    },
+    {
+      "id": "58dc",
+      "email": "adminn@gmail.com",
+      "password": "admin123",
+      "name": "admin1"
+    },
+    {
+      "id": "18f0",
+      "email": "adminn@gmail.com",
+      "password": "admin123",
+      "name": "admin1"
+    },
+    {
+      "id": "3c1e",
+      "email": "admin1@gmail.com",
+      "password": "admin123",
+      "name": "admin"
+    },
+    {
+      "id": "c7a1",
+      "email": "admin@gmail.com",
+      "password": "admin12345",
+      "name": "adminn"
+    },
+    {
+      "id": "fa58",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "name": "adminn"
+    }
+  ]
+}
