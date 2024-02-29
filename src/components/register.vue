@@ -50,7 +50,7 @@ export default {
 .logo{
   width: 15%;
 }
-.register input{
+.login input{
   width: 300px;
   height: 40px;
   border-radius: 5px;
@@ -61,7 +61,7 @@ export default {
   margin-left: auto;
   border: 1px solid #a4652d;
 }
-.register button{
+.login button{
   width: 320px;
   height: 40px;
   border-radius: 5px;
