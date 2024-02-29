@@ -6,6 +6,9 @@
   <input type="text" v-model="email" placeholder="Email">
   <input type="text" v-model="password" placeholder="Password">
   <button v-on:click="signup">Sign Up</button>
+  <p>
+    <router-link to="/login">Login</router-link>
+  </p>
   </div>
 </template>
 
@@ -32,6 +35,12 @@ export default {
           localStorage.setItem("user-info",JSON.stringify(result.data))
           this.$router.push({name: 'Home'})
         }
+      }
+    },
+    mounted(){
+      let user = localStorage.getItem('user-info');
+      if(user){
+        this.$router.push({name: 'Home'})
       }
     }
 }
